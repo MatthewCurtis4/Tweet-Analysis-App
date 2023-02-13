@@ -1,0 +1,12 @@
+To run the app, you must have Android Studio installed.
+Once you have Android Studio installed, run it and press "Open Project" in the right pane of the window.
+The project you choose to open is final-project/2XB3_GR04_FinalProject/Tagwell
+Then, simply run the green Play button and an emulator will open of the Android phone.
+The app is called "Tagwell".
+Enter some tweet you'd like to Tweet, with or without hashtags.
+You can press the button above the Twitter logo to copy text to the clipboard.
+Next, you can press the Twitter logo to open a browser and go to Twitter.
+Then you can press clear to clear your text entered.
+Finally, you can press submit to see all Tweets from our dataset that contain at least one hashtag in the Tweet you entered.
+Press these Tweets to see their information.
+You can use the phone's buttons on the bottom to lower the keyboard and go back.
